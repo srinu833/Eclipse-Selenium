@@ -24,8 +24,9 @@ public class CodingPractise {
 		//System.out.println("Enter String");
 		//String inpt = scn.nextLine();
 		//scn.close();
-		//DuplicateLetters("Lamba jumbaa");
-		//TreeSetPractise();
+		//changes from srinu833
+		DuplicateLetters("Lamba jumbaa");
+		TreeSetPractise();
 		ArrayListPractise();
 		StringOps();
 		//I have added this line

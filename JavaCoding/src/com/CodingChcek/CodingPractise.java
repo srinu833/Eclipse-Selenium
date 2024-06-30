@@ -28,7 +28,8 @@ public class CodingPractise {
 		//TreeSetPractise();
 		ArrayListPractise();
 		StringOps();
-		//HMPractise();
+		//I have added this line
+		HMPractise();
 		//RepeatedWords();
 	}
 		

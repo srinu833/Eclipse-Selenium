@@ -27,7 +27,7 @@ public class CodingPractise {
 		//DuplicateLetters("Lamba jumbaa");
 		//TreeSetPractise();
 		ArrayListPractise();
-		//StringOps();
+		StringOps();
 		//HMPractise();
 		//RepeatedWords();
 	}

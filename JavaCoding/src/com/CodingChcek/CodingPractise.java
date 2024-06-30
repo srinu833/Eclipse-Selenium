@@ -31,7 +31,7 @@ public class CodingPractise {
 		//I have added this line
 		//I have added another  line
 		HMPractise();
-		//RepeatedWords();
+		RepeatedWords();
 	}
 		
 		

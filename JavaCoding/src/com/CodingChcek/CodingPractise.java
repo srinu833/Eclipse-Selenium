@@ -26,9 +26,9 @@ public class CodingPractise {
 		//scn.close();
 		//changes from srinu833
 		DuplicateLetters("Lamba jumbaa");
-		TreeSetPractise();
-		ArrayListPractise();
-		StringOps();
+		//TreeSetPractise();
+		//ArrayListPractise();
+		//StringOps();
 		//I have added this line
 		//I have added another  line
 		HMPractise();

@@ -24,10 +24,11 @@ public class CodingPractise {
 		//System.out.println("Enter String");
 		//String inpt = scn.nextLine();
 		//scn.close();
-		//DuplicateLetters("Lamba jumbaa");
+		//changes from srinu833
+		DuplicateLetters("Lamba jumbaa");
 		//TreeSetPractise();
-		ArrayListPractise();
-		StringOps();
+		//ArrayListPractise();
+		//StringOps();
 		//I have added this line
 		//I have added another  line
 		HMPractise();

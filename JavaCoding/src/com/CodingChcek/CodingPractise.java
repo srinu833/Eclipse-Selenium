@@ -26,11 +26,11 @@ public class CodingPractise {
 		//scn.close();
 		//changes from srinu833
 		DuplicateLetters("Lamba jumbaa");
-		TreeSetPractise();
-		ArrayListPractise();
-		StringOps();
-	
-		//I have added another  line from nagaqa3
+		//TreeSetPractise();
+		//ArrayListPractise();
+		//StringOps();
+		//I have added this line
+		//I have added another  line
 		HMPractise();
 		RepeatedWords();
 	}

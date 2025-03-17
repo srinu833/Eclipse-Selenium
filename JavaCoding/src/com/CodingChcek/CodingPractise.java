@@ -31,7 +31,7 @@ public class CodingPractise {
 		//StringOps();
 		//I have added this line
 		//I have added another  line
-		HMPractise();
+		//HMPractise();
 		RepeatedWords();
 	}
 		
@@ -289,6 +289,7 @@ static void RepeatedWords () {
 			arList3.add(19);
 			arList3.add(32);
 			arList3.add(67);
+		
 			
 			arList3.set(2, 100);
 			List<Integer> arList4 = new ArrayList <>();
@@ -324,6 +325,7 @@ static void RepeatedWords () {
 			hm.put(14, "Naga");
 			hm.put( 0, "Naga");
 			
+			
 			//hm.put(10, hm.get(11) + hm.get(10));
 			
 			hm2.put(10, "Srinu");
@@ -344,9 +346,16 @@ static void RepeatedWords () {
 			//System.out.println(hSet.toString()); 
 		}
 		
-		public static synchronized Object threadTest() {
-			return null;
+		static void triangles() {
 			
+			for(int i=1;i<=10;i++) {
+				
+				for(int j=1; j<=i;j++) {
+				System.out.print("*");
+				
+				}
+				System.out.println(" ");
+			}
 			
 			
 		}
